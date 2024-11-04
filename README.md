@@ -1,6 +1,6 @@
 # Student Performance Prediction
 
-![UI Preview](path/to/your/image.png) <!-- Replace with the actual path to your UI image -->
+![UI Preview](https://github.com/arhamkhan779/Student-Performance-Indicator/blob/9d8484c8face37d2fe4fae79fc02acecbe993b99/stdi.png) <!-- Replace with the actual path to your UI image -->
 
 ## Overview
 
